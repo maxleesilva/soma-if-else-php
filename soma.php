@@ -34,11 +34,10 @@ Construir um algoritmo que leia 2 números e efetue a adição. Caso o valor som
         $soma = $a + $b;
         if ($soma > 20){
             $total = $soma + 8;
-            print $total;
-        } else {
+        } else{
             $total = $soma - 5;
-            print $total;
         }
+        print $total;
           
 ?>
             </div>
